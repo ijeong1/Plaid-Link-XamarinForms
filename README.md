@@ -1,4 +1,4 @@
-# Plaid-Link-XamarinForms
+# Plaid Link Xamarin Forms
 Plaid Link on Xamarin Forms
 
 ![Image description](https://github.com/ijeong1/Plaid-Link-XamarinForms/blob/master/Screen_Shot.png)
