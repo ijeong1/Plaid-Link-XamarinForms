@@ -12,5 +12,9 @@ Plaid Link on Xamarin Forms
      <true/>
  </dict>
 ```
-@Things to do
-- UIWebview is Deprecated. Need to update this code to WKWebivew compatible code using custom renderer.
+@ UIWebview is despecated from iOS 13. So you need to use wkwebview instead of webview.
+add the following code to the AssemblyInfo.cs file in the iOS platform project for the application
+```
+// Opt-in to using WkWebView instead of UIWebView.
+[assembly: ExportRenderer(typeof(WebView), typeof(Xamarin.Forms.Platform.iOS.WkWebViewRenderer))]
+```
