@@ -22,5 +22,5 @@ to solve this problem,
 Change your build option. change your build option for your Xamarin Forms project by referring to the figure above.
 
 
-# If you like my code/solution, you can buy my coffee :)
+# If you like my code, buy me a cup of coffee :)
 > [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=G3F8F88VVYKRY&currency_code=USD&source=url)
