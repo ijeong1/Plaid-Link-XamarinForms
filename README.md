@@ -20,7 +20,3 @@ ITMS-90809: Deprecated API Usage - New apps that use UIWebView are no longer acc
 to solve this problem,
 ![Image description](https://github.com/ijeong1/Plaid-Link-XamarinForms/blob/master/BuildOption.png)
 Change your build option. change your build option for your Xamarin Forms project by referring to the figure above.
-
-
-# If you like my code, buy me a cup of coffee :)
-> [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=G3F8F88VVYKRY&currency_code=USD&source=url)
